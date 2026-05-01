@@ -10,6 +10,9 @@ Build a CLI nodes manager using Node.js
 ---
 
 ### Example usage:
-`node app.js add "Buy milk"`
-`node app.js list`
-`node app.js delete "Buy milk"`
+`node app.js add "Buy milk"` 
+
+`node app.js list` 
+
+`node app.js delete "Buy milk"` 
+
